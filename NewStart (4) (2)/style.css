@@ -4,13 +4,43 @@ body {
 }
 
 header {
-  padding: 20px 0;
+  padding: 30px 0;
+  background-color: #212529;
 }
 header .imgbox {
   width: 200px;
 }
 header nav a {
-  font-size: 20px;
-  color: #8c8999;
+  font-size: 16px;
+  color: white;
   margin-right: 30px;
+}
+
+#nice .box {
+  background-image: url("(2)/Assets New/Assets.2.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+#nice .box .textbox {
+  position: absolute;
+  top: 500px;
+}
+#nice .box .textbox h1 {
+  font-size: 20px;
+  color: #bd3f3f;
+}
+#nice .box .textbox h2 {
+  font-size: 20px;
+  color: #d31b1b;
+}
+#nice .box .textbox .btn {
+  color: #e3dc19;
+  font-size: 20px;
+  background-color: #e5db1e;
+  padding: 13px 34px;
+  border-radius: 5px;
+}
+#nice .box .textbox .btn h3 {
+  color: white;
+  font-size: 20px;
 }/*# sourceMappingURL=style.css.map */
