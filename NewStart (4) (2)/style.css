@@ -17,30 +17,35 @@ header nav a {
 }
 
 #nice .box {
-  background-image: url("(2)/Assets New/Assets.2.jpg");
+  background-image: url("NewStart (4) (2)/Assets New/Assets.2.jpg");
   background-position: center center;
   background-size: cover;
 }
 #nice .box .textbox {
   position: absolute;
-  top: 500px;
+  top: 350px;
 }
 #nice .box .textbox h1 {
-  font-size: 20px;
+  font-weight: 700px;
+  margin: 28px 0 55px 0;
+  font-size: 80px;
   color: #bd3f3f;
 }
 #nice .box .textbox h2 {
-  font-size: 20px;
+  font-size: 50px;
   color: #d31b1b;
 }
 #nice .box .textbox .btn {
-  color: #e3dc19;
+  margin: 20px;
   font-size: 20px;
-  background-color: #e5db1e;
+  background-color: #e3dc19;
   padding: 13px 34px;
-  border-radius: 5px;
 }
 #nice .box .textbox .btn h3 {
   color: white;
   font-size: 20px;
+}
+
+#services {
+  padding: 50px;
 }/*# sourceMappingURL=style.css.map */
